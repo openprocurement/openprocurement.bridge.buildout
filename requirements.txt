@@ -1,4 +1,4 @@
-setuptools==7.0
+setuptools==65.5.1
 zc.buildout==2.2.5
 pbr==1.10.0
 cffi==1.11.2
